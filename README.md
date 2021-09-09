@@ -7,6 +7,3 @@
 #### 4. 枚举+lambda表达式（package:enums）
 #### 5. 测试io流（package:io）
 #### 6. Java8函数式编程(package:java8.function)
-
-## 二、多线程
-#### 1. 消费者、生产者模型（管程实现）: 
